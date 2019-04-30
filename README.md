@@ -20,3 +20,5 @@ C/C++ source codes and binaries:
 ## Contributing
 
 See [RetDec contribution guidelines](https://github.com/avast/retdec/wiki/Contribution-Guidelines) and our [regression-tests framework](https://github.com/avast/retdec-regression-tests-framework).
+
+hello
